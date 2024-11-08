@@ -12,5 +12,5 @@ Schreibe Unittests die prüfen, dass die Methode funktioniert wie erwartet.
 
 # Notice
 
-*Unit-Tests werden in JUnit 5 geschrieben*
-*Java-Plattform ist Java 21*
+- Unit-Tests werden in JUnit 5 geschrieben
+- Java-Plattform ist Java 21
